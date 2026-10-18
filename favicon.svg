@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#f7a8b8"/>
+  <!-- ears -->
+  <ellipse cx="18" cy="18" rx="8" ry="10" fill="#ff8fb3" transform="rotate(-18 18 18)"/>
+  <ellipse cx="46" cy="18" rx="8" ry="10" fill="#ff8fb3" transform="rotate(18 46 18)"/>
+  <ellipse cx="18.5" cy="19" rx="4.2" ry="5.5" fill="#ffc2d6" transform="rotate(-18 18.5 19)"/>
+  <ellipse cx="45.5" cy="19" rx="4.2" ry="5.5" fill="#ffc2d6" transform="rotate(18 45.5 19)"/>
+  <!-- face -->
+  <circle cx="32" cy="34" r="20" fill="#ffb7cc"/>
+  <!-- cheeks -->
+  <ellipse cx="20" cy="38" rx="4.5" ry="3" fill="#ff8fb3" opacity="0.55"/>
+  <ellipse cx="44" cy="38" rx="4.5" ry="3" fill="#ff8fb3" opacity="0.55"/>
+  <!-- eyes -->
+  <circle cx="24.5" cy="31" r="2.2" fill="#5a3a45"/>
+  <circle cx="39.5" cy="31" r="2.2" fill="#5a3a45"/>
+  <circle cx="25.2" cy="30.3" r="0.7" fill="#fff"/>
+  <circle cx="40.2" cy="30.3" r="0.7" fill="#fff"/>
+  <!-- snout -->
+  <ellipse cx="32" cy="39.5" rx="8" ry="6.2" fill="#ff9ec0"/>
+  <ellipse cx="32" cy="39.5" rx="8" ry="6.2" fill="none" stroke="#f48ca5" stroke-width="1.2"/>
+  <circle cx="28.8" cy="39.5" r="1.5" fill="#e87894"/>
+  <circle cx="35.2" cy="39.5" r="1.5" fill="#e87894"/>
+  <!-- smile -->
+  <path d="M27 45.5c1.6 1.6 4.4 1.6 6 0" stroke="#e87894" stroke-width="1.4" stroke-linecap="round" fill="none"/>
+</svg>
