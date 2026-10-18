@@ -15,7 +15,7 @@ export default defineConfig({
       strategies: 'injectManifest',
       srcDir: 'src',
       filename: 'sw.ts',
-      includeAssets: ['favicon.svg', 'icons/*.png'],
+      includeAssets: ['favicon.svg', 'icons/*.png', 'icons/apple-touch-icon.png'],
       manifest: {
         name: 'cimi 小算盘',
         short_name: 'cimi算盘',
